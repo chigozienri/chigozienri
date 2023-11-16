@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![A sign saying "welcome to my github profile" (AI procedurally generated image)](https://borgesian-image-library.vercel.app/a-sign-saying-welcome-to-my-github-profile256-512.png"/)
+!["welcome to my github profile" (AI procedurally generated image)](https://borgesian-image-library.vercel.app/welcome-to-my-github-profile768-512.png)
 <!--
 **chigozienri/chigozienri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
